@@ -2,7 +2,7 @@
 
 $name = 'Pawel';
 
-$n = 3;
+$n = 5;
 
 print "Hello World\n";
 print "My name is " . $name;
